@@ -37,7 +37,7 @@ Retizo được build công khai — bạn có thể theo dõi quá trình phát
 
 - 💬 [Discord Community](https://discord.gg/CzjGmgtEEq)
 - 📺 [YouTube Build Journey](https://youtube.com/@retizo)
-- 📧 nguyendanhhuydoan0306@gmail.com
+- 📧 support@retizo.com
 
 ---
 
